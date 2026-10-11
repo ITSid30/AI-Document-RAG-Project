@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Runtime data: database, uploaded documents, vectors
+storage/
+
+# Secrets and config
+.env
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
